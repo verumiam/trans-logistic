@@ -1425,7 +1425,7 @@ p {
         left: 0;
         z-index: 1;
 
-        transform: translateX(50%);
+        transform: translateX(100%);
         transition: 0.6s transform;
     }
 
